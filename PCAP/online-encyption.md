@@ -1,4 +1,4 @@
-<img width="589" height="209" alt="image" src="https://github.com/user-attachments/assets/fdcd18fc-9082-452e-8fb3-9513fb8f421a" />Category : Network Forensics  
+Category : Network Forensics  
 Level : Easy  
 Challenge Link : https://app.cyber-edu.co/challenges/55c7c4e0-7f21-11ea-9429-9367630f4e1e?tenant=cyberedu<br>
 
